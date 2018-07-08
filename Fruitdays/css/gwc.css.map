@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,SAAS;EAAC,KAAK,EAAE,MAAM;EAAE,MAAM,EAAE,MAAM;EAAE,QAAQ,EAAE,MAAM",
+"sources": ["../scss/gwc.scss"],
+"names": [],
+"file": "gwc.css"
+}

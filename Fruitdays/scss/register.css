@@ -1,0 +1,154 @@
+@charset "UTF-8";
+.border {
+  box-shadow: 2px 2px 2px #ccc;
+  width: 100%;
+  height: 5px; }
+
+.box_show_all {
+  width: 100%;
+  overflow: hidden; }
+
+.register {
+  width: 1000px;
+  margin: 65px auto 0 auto; }
+
+.register > h2 {
+  font-size: 24px;
+  line-height: 60px;
+  height: 60px;
+  color: #4e4e4e;
+  border-bottom: solid 1px #ccc; }
+
+.huiyuan {
+  margin-top: 36px;
+  width: 500px;
+  position: relative;
+  float: left; }
+
+.huiyuan > a {
+  display: block;
+  width: 154px;
+  height: 47px;
+  margin-left: -77px;
+  position: absolute;
+  left: 50%;
+  bottom: 20px;
+  text-align: center;
+  border: solid 1px #64a131;
+  border-radius: 5px;
+  line-height: 47px;
+  color: #64a131; }
+
+/*娉ㄥ唽*/
+.zhuce {
+  width: 450px;
+  overflow: hidden;
+  float: right;
+  margin-top: 36px; }
+
+.zhuce > p > span {
+  margin-right: 42px;
+  width: 64px;
+  display: inline-block;
+  float: left; }
+
+.zhuce > p {
+  margin-bottom: 26px;
+  height: 40px; }
+
+.zhuce > p > input {
+  width: 300px;
+  height: 40px;
+  border-radius: 5px;
+  border: solid 1px #ccc;
+  padding-left: 10px;
+  box-sizing: border-box;
+  float: left; }
+
+.reg_ul li {
+  margin: auto;
+  overflow: hidden;
+  margin-bottom: 20px; }
+
+.reg_ul li span {
+  width: 100px;
+  display: inline-block;
+  color: #999; }
+
+.reg_ul li span:nth-of-type(1) {
+  float: left;
+  margin: auto;
+  margin-top: 10px; }
+
+.reg_ul > li > i {
+  width: 30px;
+  display: inline-block;
+  float: right;
+  height: 32px;
+  line-height: 32px; }
+
+.reg_ul li span:nth-of-type(2) {
+  float: left;
+  margin-top: 8px;
+  margin-left: 10px; }
+
+.reg_ul li input {
+  float: left;
+  width: 300px;
+  height: 40px;
+  border-radius: 3px;
+  padding-left: 20px;
+  outline: medium;
+  margin-left: 10px;
+  box-sizing: border-box;
+  border: solid 1px #ccc; }
+
+.reg_ul li button {
+  display: block;
+  width: 143px;
+  height: 38px;
+  background-color: #64a131;
+  padding: 0px;
+  border-radius: 4px;
+  border: none;
+  line-height: 38px;
+  text-align: center;
+  color: #ffffff;
+  text-decoration: none;
+  float: left; }
+
+.login_register {
+  margin: 0 auto 0 103px; }
+
+.red_button {
+  display: block;
+  width: 143px;
+  height: 38px;
+  background-color: #64a131;
+  padding: 0px;
+  border-radius: 4px;
+  border: none;
+  line-height: 38px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 26px;
+  margin-right: 14px;
+  text-decoration: none;
+  float: left; }
+
+.login {
+  display: block;
+  width: 143px;
+  height: 38px;
+  padding: 0px;
+  margin-top: 26px;
+  float: left;
+  border: 1px solid #64a131;
+  line-height: 38px;
+  text-align: center;
+  border-radius: 5px;
+  background-color: #f5ffed;
+  color: #7bae55;
+  text-decoration: none; }
+
+/*# sourceMappingURL=register.css.map */
